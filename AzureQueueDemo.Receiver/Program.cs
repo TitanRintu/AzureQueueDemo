@@ -15,7 +15,7 @@ namespace AzureQueueDemo.Receiver
 
     class Program
     {
-        private static string AZURE_SERVICE_BUS_CONNECTIONSTRING = "Endpoint=sb://ordermanagementnamespace.servicebus.windows.net/;SharedAccessKeyName=ReceiverPolicy;SharedAccessKey=HkM/MFoiQsshdq/l2iaxMETa6X09Ddwrlry0BD0vacI=;";
+        private static string AZURE_SERVICE_BUS_CONNECTIONSTRING = "";
         private static string QUEUE_NAME = "ordermanagementqueue";
         private static IQueueClient client;
         static async Task Main(string[] args)

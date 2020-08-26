@@ -46,7 +46,7 @@ namespace AzureQueueDemo.Sender
             } 
 
         };
-        private static string AZURE_SERVICE_BUS_CONNECTIONSTRING = "Endpoint=sb://ordermanagementnamespace.servicebus.windows.net/;SharedAccessKeyName=SenderPolicy;SharedAccessKey=z6kKhOgRoBuNxoNvrdwrzjEwqB7LdrQh/9KSKIAgqj8=;";
+        private static string AZURE_SERVICE_BUS_CONNECTIONSTRING = "";
         private static string QUEUE_NAME = "ordermanagementqueue";
         static async Task Main(string[] args)
         {
