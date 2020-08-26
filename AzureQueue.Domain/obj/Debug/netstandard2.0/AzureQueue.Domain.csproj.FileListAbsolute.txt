@@ -1,0 +1,9 @@
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\bin\Debug\netstandard2.0\AzureQueue.Domain.deps.json
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\bin\Debug\netstandard2.0\AzureQueue.Domain.dll
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\bin\Debug\netstandard2.0\AzureQueue.Domain.pdb
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.csprojAssemblyReference.cache
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.AssemblyInfoInputs.cache
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.AssemblyInfo.cs
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.dll
+C:\Users\sbiswal.CORP\source\repos\AzureQueueDemo\AzureQueue.Domain\obj\Debug\netstandard2.0\AzureQueue.Domain.pdb
